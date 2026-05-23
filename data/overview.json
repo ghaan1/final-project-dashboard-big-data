@@ -1,0 +1,14 @@
+{
+  "totalDeliveries": 24502,
+  "totalDelayed": 6541,
+  "totalOnTime": 17961,
+  "delayRate": 26.695779936331725,
+  "avgDistance": 150.01853195657495,
+  "avgCost": 857.372739898784,
+  "avgRating": 3.6652110031834138,
+  "partners": 9,
+  "regions": 5,
+  "packageTypes": 9,
+  "vehicleTypes": 6,
+  "suspectedFraud": 246
+}

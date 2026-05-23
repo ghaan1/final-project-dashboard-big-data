@@ -1,0 +1,16 @@
+[
+  { "feature": "delivery_mode", "importance": 0.8616999983787537 },
+  { "feature": "weather_condition", "importance": 0.04089999943971634 },
+  { "feature": "expected_time_hours", "importance": 0.024000000208616257 },
+  { "feature": "distance_km", "importance": 0.0203000009059906 },
+  { "feature": "delivery_cost", "importance": 0.006800000090152025 },
+  { "feature": "weight_per_distance", "importance": 0.006599999964237213 },
+  { "feature": "cost_per_km", "importance": 0.006500000134110451 },
+  { "feature": "package_weight_kg", "importance": 0.006000000052154064 },
+  { "feature": "vehicle_type", "importance": 0.00559999980032444 },
+  { "feature": "package_type", "importance": 0.005499999970197678 },
+  { "feature": "is_ev", "importance": 0.005400000140070915 },
+  { "feature": "delivery_partner", "importance": 0.0052999998442828655 },
+  { "feature": "region", "importance": 0.0052999998442828655 },
+  { "feature": "suspected_fraud", "importance": 0.0 }
+]

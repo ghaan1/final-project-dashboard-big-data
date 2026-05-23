@@ -1,0 +1,42 @@
+[
+  {
+    "model": "Logistic Regression (sklearn)",
+    "accuracy": 0.8739,
+    "precision": 0.6896,
+    "recall": 0.9595,
+    "f1": 0.8024,
+    "rocAuc": 0.9551,
+    "trainTime": 0.03,
+    "usesSpark": false
+  },
+  {
+    "model": "Random Forest (sklearn)",
+    "accuracy": 0.8829,
+    "precision": 0.7129,
+    "recall": 0.9396,
+    "f1": 0.8107,
+    "rocAuc": 0.9612,
+    "trainTime": 3.36,
+    "usesSpark": false
+  },
+  {
+    "model": "XGBoost",
+    "accuracy": 0.8821,
+    "precision": 0.7296,
+    "recall": 0.8869,
+    "f1": 0.8006,
+    "rocAuc": 0.9602,
+    "trainTime": 0.88,
+    "usesSpark": false
+  },
+  {
+    "model": "Random Forest (Spark MLlib)",
+    "accuracy": 0.8921,
+    "precision": 0.8962,
+    "recall": 0.8921,
+    "f1": 0.8935,
+    "rocAuc": 0.9626,
+    "trainTime": 70.98,
+    "usesSpark": true
+  }
+]

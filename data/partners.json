@@ -1,0 +1,83 @@
+[
+  {
+    "name": "xpressbees",
+    "total": 2765,
+    "delayed": 786,
+    "delayRate": 28.43,
+    "avgDistance": 150.81,
+    "avgCost": 864.27,
+    "avgRating": 3.6
+  },
+  {
+    "name": "shadowfax",
+    "total": 2679,
+    "delayed": 734,
+    "delayRate": 27.4,
+    "avgDistance": 150.5,
+    "avgCost": 863.93,
+    "avgRating": 3.66
+  },
+  {
+    "name": "ekart",
+    "total": 2750,
+    "delayed": 752,
+    "delayRate": 27.35,
+    "avgDistance": 151.45,
+    "avgCost": 860.58,
+    "avgRating": 3.66
+  },
+  {
+    "name": "amazon logistics",
+    "total": 2643,
+    "delayed": 722,
+    "delayRate": 27.32,
+    "avgDistance": 151.14,
+    "avgCost": 856.62,
+    "avgRating": 3.64
+  },
+  {
+    "name": "blue dart",
+    "total": 2750,
+    "delayed": 741,
+    "delayRate": 26.95,
+    "avgDistance": 149.33,
+    "avgCost": 857.63,
+    "avgRating": 3.67
+  },
+  {
+    "name": "ecom express",
+    "total": 2673,
+    "delayed": 710,
+    "delayRate": 26.56,
+    "avgDistance": 150.4,
+    "avgCost": 859.67,
+    "avgRating": 3.68
+  },
+  {
+    "name": "dhl",
+    "total": 2749,
+    "delayed": 725,
+    "delayRate": 26.37,
+    "avgDistance": 151.69,
+    "avgCost": 865.56,
+    "avgRating": 3.69
+  },
+  {
+    "name": "fedex",
+    "total": 2758,
+    "delayed": 691,
+    "delayRate": 25.05,
+    "avgDistance": 148.16,
+    "avgCost": 846.17,
+    "avgRating": 3.7
+  },
+  {
+    "name": "delhivery",
+    "total": 2735,
+    "delayed": 680,
+    "delayRate": 24.86,
+    "avgDistance": 146.73,
+    "avgCost": 842.04,
+    "avgRating": 3.69
+  }
+]

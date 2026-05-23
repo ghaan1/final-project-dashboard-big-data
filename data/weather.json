@@ -1,0 +1,38 @@
+[
+  {
+    "condition": "stormy",
+    "total": 4115,
+    "delayed": 1704,
+    "delayRate": 41.41
+  },
+  {
+    "condition": "rainy",
+    "total": 4087,
+    "delayed": 1531,
+    "delayRate": 37.46
+  },
+  {
+    "condition": "foggy",
+    "total": 4134,
+    "delayed": 1253,
+    "delayRate": 30.31
+  },
+  {
+    "condition": "clear",
+    "total": 4036,
+    "delayed": 704,
+    "delayRate": 17.44
+  },
+  {
+    "condition": "hot",
+    "total": 4044,
+    "delayed": 692,
+    "delayRate": 17.11
+  },
+  {
+    "condition": "cold",
+    "total": 4086,
+    "delayed": 657,
+    "delayRate": 16.08
+  }
+]

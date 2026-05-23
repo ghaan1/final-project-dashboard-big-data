@@ -1,0 +1,27 @@
+{
+  "modes": [
+    { "mode": "express", "total": 6109, "delayed": 4512, "delayRate": 73.86 },
+    { "mode": "same day", "total": 6157, "delayed": 2003, "delayRate": 32.53 },
+    { "mode": "standard", "total": 6058, "delayed": 0, "delayRate": 0.0 },
+    { "mode": "two day", "total": 6178, "delayed": 26, "delayRate": 0.42 }
+  ],
+  "vehicles": [
+    { "vehicle": "bike", "total": 4082, "delayed": 1106, "delayRate": 27.09 },
+    { "vehicle": "ev bike", "total": 4121, "delayed": 1097, "delayRate": 26.62 },
+    { "vehicle": "ev van", "total": 4049, "delayed": 1074, "delayRate": 26.53 },
+    { "vehicle": "scooter", "total": 4087, "delayed": 1072, "delayRate": 26.23 },
+    { "vehicle": "truck", "total": 4061, "delayed": 1095, "delayRate": 26.96 },
+    { "vehicle": "van", "total": 4102, "delayed": 1097, "delayRate": 26.74 }
+  ],
+  "packages": [
+    { "package": "automobile parts", "total": 2740, "delayed": 717, "delayRate": 26.17 },
+    { "package": "clothing", "total": 2716, "delayed": 703, "delayRate": 25.88 },
+    { "package": "cosmetics", "total": 2688, "delayed": 729, "delayRate": 27.12 },
+    { "package": "documents", "total": 2748, "delayed": 747, "delayRate": 27.18 },
+    { "package": "electronics", "total": 2735, "delayed": 743, "delayRate": 27.17 },
+    { "package": "fragile items", "total": 2791, "delayed": 744, "delayRate": 26.66 },
+    { "package": "furniture", "total": 2686, "delayed": 672, "delayRate": 25.02 },
+    { "package": "groceries", "total": 2638, "delayed": 728, "delayRate": 27.6 },
+    { "package": "pharmacy", "total": 2760, "delayed": 758, "delayRate": 27.46 }
+  ]
+}
